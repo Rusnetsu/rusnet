@@ -1,0 +1,1 @@
+#home/rusnet/sites/bot_telega/utils/__init__.py пуст
